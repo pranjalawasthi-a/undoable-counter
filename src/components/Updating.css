@@ -1,0 +1,24 @@
+.u-r{
+    margin: 0 9.25rem; 
+}
+.add-sub{
+    display: flex;
+    padding-top: 50px;
+}
+.child{
+    
+}
+.child:first-child {
+    /* margin-right: 2px; */
+} 
+.buttons-color{
+    margin: 0 0.25rem; 
+    background-color: rgb(0, 183, 255);
+    margin-right: 5px;
+    border-radius: 5px;
+    font-size: larger;
+}
+
+.result{
+    color:whitesmoke;
+}
